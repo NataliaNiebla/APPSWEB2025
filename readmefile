@@ -1,0 +1,11 @@
+Crear proyecto: npx create-expo-app EjemploApp --template blank
+Instalar depedencia: npm install -g expo-cli  expo upgrade
+Iniciar proyecto: npx expo start
+Eliminar cache: npx expo start --clear
+Dependencias: npm install 
+
+Instalar libreria de React Navigation: 
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons react-native-paper
+npm install @react-navigation/stack
+
